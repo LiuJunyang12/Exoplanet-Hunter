@@ -1,0 +1,6 @@
+{
+  "name": "Exoplanet Hunter",
+  "description": "Deep Space Transit Spectroscopy Simulator - Discover and characterize alien exoplanets using the transit photometry method.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
